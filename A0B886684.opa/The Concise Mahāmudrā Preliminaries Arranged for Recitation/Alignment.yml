@@ -1,0 +1,19 @@
+segment_sources:
+  P7C418A99:
+    type: origin_type
+    relation: translation
+    language: en
+  P3F6AD06F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6fd3d2cc0c294fb18b8b8a03f70a8a87:
+    P7C418A99: ac5401c9fcc34040aede8d23dc2779dc
+    P3F6AD06F: 936c73abe0a6495a915b58f27ae049b6
+  4a0b6d17dbe24c70994b210d3df9648c:
+    P7C418A99: aaad80609d3940cfac4e07e15a0a5fce
+    P3F6AD06F: fe5da0f852394bd384889ab0c671dca5
+  3d47a4a232304d18aa075926aac2b26a:
+    P7C418A99: 02995f99f02d4aa9b4c736e2b7960f71
+    P3F6AD06F: 3510c4da65784539911a952f09fe2754
